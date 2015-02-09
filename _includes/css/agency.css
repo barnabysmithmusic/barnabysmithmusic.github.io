@@ -628,23 +628,23 @@ section h3.section-subheading {
     }
 }
 
-.team-member {
+.credit-column {
     margin-bottom: 50px;
     text-align: center;
 }
 
-.team-member img {
+.credit-column img {
     margin: 0 auto;
     border: 7px solid #fff;
 }
 
-.team-member h4 {
+.credit-column h4 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
 }
 
-.team-member p {
+.credit-column p {
     margin-top: 0;
 }
 
