@@ -628,24 +628,25 @@ section h3.section-subheading {
     }
 }
 
-.credit-column {
+.about-column {
     margin-bottom: 50px;
     text-align: center;
 }
 
-.credit-column img {
+.about-column img {
     margin: 0 auto;
     border: 7px solid #fff;
 }
 
-.credit-column h4 {
+.about-column h4 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
 }
 
-.credit-column p {
+.about-column p {
     margin-top: 0;
+    text-align: justify;
 }
 
 aside.clients img {
