@@ -1,0 +1,15 @@
+---
+title: Say Yes
+subtitle: Film
+layout: default
+modal-id: 6
+date: 2015-02-05
+img: dreams.png
+thumbnail: say_yes_thumbnail.jpg
+alt: image-alt
+project-date: February 2015
+client: Start Bootstrap
+category: Listen
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/dTswxY-XLn8" frameborder="0" allowfullscreen></iframe>
+
+---
