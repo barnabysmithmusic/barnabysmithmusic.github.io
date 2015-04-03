@@ -1,5 +1,5 @@
 ---
-title: Corporate
+title: Corporate (playlist)
 subtitle: Corporate
 layout: default
 modal-id: 3

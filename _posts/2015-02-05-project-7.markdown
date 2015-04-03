@@ -1,8 +1,8 @@
 ---
-title: Say Yes
+title: Say Yes (video)
 subtitle: Film
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2015-02-05
 img: dreams.png
 thumbnail: say_yes_thumbnail.jpg

@@ -1,5 +1,5 @@
 ---
-title: Film
+title: Film (playlist)
 subtitle: Film
 layout: default
 modal-id: 5

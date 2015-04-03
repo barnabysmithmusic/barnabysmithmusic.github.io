@@ -1,5 +1,5 @@
 ---
-title: Stings & Idents
+title: Stings & Idents (playlist)
 subtitle: Stings & Idents
 layout: default
 modal-id: 4
