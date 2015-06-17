@@ -1,0 +1,15 @@
+---
+title: Flip (video)
+subtitle: Film
+layout: default
+modal-id: 8
+date: 2015-06-17
+img: dreams.png
+thumbnail: flip_thumbnail.png
+alt: image-alt
+project-date: June 2015
+client: Start Bootstrap
+category: Listen
+description: <iframe src="https://player.vimeo.com/video/130894553" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
