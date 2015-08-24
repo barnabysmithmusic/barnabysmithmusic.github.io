@@ -1,5 +1,5 @@
 ---
-title: Flip (video)
+title: Flip - Jill Hackett
 subtitle: Film
 layout: default
 modal-id: 8
