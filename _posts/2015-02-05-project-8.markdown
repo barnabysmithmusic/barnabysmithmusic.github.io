@@ -1,11 +1,11 @@
 ---
 title: Flip - Jill Hackett
-subtitle: Film
+subtitle: Flip
 layout: default
 modal-id: 8
 date: 2015-06-17
 img: dreams.png
-thumbnail: flip_thumbnail.png
+thumbnail: flip_thumbnail_play_icon.jpg
 alt: image-alt
 project-date: June 2015
 client: Start Bootstrap

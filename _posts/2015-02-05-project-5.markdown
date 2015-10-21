@@ -1,11 +1,11 @@
 ---
-title: Film (playlist)
+title: Playlist
 subtitle: Film
 layout: default
 modal-id: 5
 date: 2015-02-05
 img: escape.png
-thumbnail: film_playlist_thumbnail.jpg
+thumbnail: film_thumbnail_oct2015.jpg
 alt: image-alt
 project-date: February 2015
 client: Start Bootstrap

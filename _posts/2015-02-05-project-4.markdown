@@ -1,11 +1,11 @@
 ---
-title: Stings & Idents (playlist)
+title: Playlist
 subtitle: Stings & Idents
 layout: default
 modal-id: 4
 date: 2015-02-05
 img: golden.png
-thumbnail: stings_idents_playlist_thumbnail.jpg
+thumbnail: stings_and_idents_thumbnail_oct2015.jpg
 alt: image-alt
 project-date: February 2015
 client: Start Bootstrap
