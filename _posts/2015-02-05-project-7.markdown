@@ -1,5 +1,5 @@
 ---
-title: Say Yes - National Citizen Service
+title: '&quot;Say Yes&quot; - NCS'
 subtitle: Film
 layout: default
 modal-id: 7
