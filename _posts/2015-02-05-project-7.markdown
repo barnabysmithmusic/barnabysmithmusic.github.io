@@ -1,6 +1,6 @@
 ---
 title: '&quot;Say Yes&quot; - NCS'
-subtitle: Film
+subtitle: Say Yes
 layout: default
 modal-id: 7
 date: 2015-02-05
