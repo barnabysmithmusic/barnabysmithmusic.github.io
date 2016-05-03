@@ -1,5 +1,5 @@
 ---
-title: Coming soon...
+title: Corporate Music
 subtitle: Corporate
 layout: default
 modal-id: 4
@@ -10,6 +10,21 @@ alt: image-alt
 project-date: February 2015
 client: Start Bootstrap
 category: Listen
-description: 
+description: '<div>
+  <div id="player_div1"></div>
+<script src="//d2mdw063ttlqtq.cloudfront.net/audioplayer/player.js"></script>
+<script type="text/javascript">
+  var client = new EnvatoPlayerClient({
+    id: "player_div1", 
+    volume: 25, 
+    autoStart: false, 
+    referralId: "BarnabySmith", 
+    width: 420, 
+    backColor: "#FFFFFF", 
+    foreColor: "#FFD216", 
+    source: "collection:5682432-corporate" 
+  });
+</script>
+</div>'
 
 ---

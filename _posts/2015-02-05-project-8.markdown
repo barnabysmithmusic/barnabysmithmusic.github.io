@@ -1,5 +1,5 @@
 ---
-title: '&quot;Flip&quot; - Jill Hackett'
+title: Flip
 subtitle: Flip
 layout: default
 modal-id: 8
