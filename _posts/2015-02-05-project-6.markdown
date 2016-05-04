@@ -1,6 +1,6 @@
 ---
-title: Frack Free Bake Off
-subtitle: Frack Free Bake Off
+title: The Frack Free Bake Off
+subtitle: The Frack Free Bake Off
 layout: default
 modal-id: 6
 date: 2015-02-05
