@@ -543,7 +543,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     .timeline:before {
-        left: 50%;
+        left: 8%;
     }
 
     .timeline>li {
@@ -559,7 +559,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image {
-        left: 50%;
+        left: 8%;
         width: 100px;
         height: 100px;
         margin-left: -50px;
