@@ -2,7 +2,7 @@
 title: Say Yes
 subtitle: Say Yes
 layout: default
-modal-id: 7
+modal-id: 2
 date: 2015-02-05
 img: dreams.png
 thumbnail: say_yes_thumbnail_play_icon.jpg
