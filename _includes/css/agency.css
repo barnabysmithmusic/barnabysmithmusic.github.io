@@ -322,17 +322,17 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 10px 0;
+    padding: 15px 0;
 }
 
 section h2.section-heading {
-    margin-top: 0;
+    margin-top: 0px;
     margin-bottom: 15px;
     font-size: 40px;
 }
 
 section h3.section-subheading {
-    margin-bottom: 0px;
+    margin-bottom: 30px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
@@ -654,6 +654,19 @@ aside.clients img {
     line-height: 14px;
 }
 
+aside {
+    padding: 15px 0;
+}
+
+aside h3.aside-subheading {
+    margin-bottom: 30px;
+    text-transform: none;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+}
+
 section#contact {
     background-color: #222;
     background-image: url(../img/map-image.png);
@@ -866,8 +879,11 @@ body {
 
 .flex-container {
   display: flex;
+  margin: auto;
   flex-flow: row wrap;
   justify-content: space-around;
+  padding: 15px;
+  max-width: 1000px;
 }
 
 /* to center flex-items */
