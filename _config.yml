@@ -1,4 +1,4 @@
-url: http://barnabysmithmusic.co.uk
+url: https://barnabysmithmusic.co.uk
 baseurl: 
 
 # Site settings
@@ -15,7 +15,7 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/BarnSmithMusic
+    url: https://twitter.com/BarnSmithMusic
   - title: facebook
     url: https://www.facebook.com/barnabysmithmusic
   - title: soundcloud
@@ -25,7 +25,7 @@ social:
   - title: linkedin 
     url: https://uk.linkedin.com/pub/barnaby-smith/9/584/b47/
 # - title: github
-#   url: http://github.com/jekyll
+#   url: https://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
